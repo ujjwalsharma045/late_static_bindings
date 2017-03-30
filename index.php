@@ -34,5 +34,5 @@ $b->test();
 echo "</br>";
 $a = new A();
 $a->test();
-echo "tested";
+echo "tested again";
 ?>
